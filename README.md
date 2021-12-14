@@ -1,8 +1,5 @@
 ### Welcome to my repository! 
 
-Sou uma pessoa apaixonada por tecnologia, e faço dela minha profissão a alguns anos. 
-Meus repositórios são somente alguns momentos que decidi salvar o código que sempre estou praticando.
-
 I am a person in love with technology, and I have made it my profession for a few years.
 My repositories are just a few moments that I decided to save the code I'm always practicing.
 
